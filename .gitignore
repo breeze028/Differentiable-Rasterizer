@@ -19,6 +19,9 @@
 # User files.
 /CMakeUserPresets.json
 
+# VS slang config.
+/slangdconfig.json
+
 # File types.
 *.user
 *.suo
